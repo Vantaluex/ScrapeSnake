@@ -1,11 +1,6 @@
 ### hello
 
-### main.py
-
-inside, main,
-call a function that scrapes
-
-### scrape.py
+### scrapeAll.py
 
 loops through to get all the links for each task page,
 hand the url for each task page into a function called scrape_task_links,
